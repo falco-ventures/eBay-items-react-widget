@@ -2,6 +2,14 @@
 
 Lightweight, responsive and fully customizable component for React applications to surface a rich selection of items for buyers.
 
+Short version:
+
+npm install --save ebay-oauth-nodejs-client
+npm install --save cors 
+npm install --save axios
+npm install --save xss
+npm start
+
 **Note**: The item search is powered by [eBay Browse API](https://developer.ebay.com/api-docs/buy/browse/overview.html).
 
 ## Table of contents

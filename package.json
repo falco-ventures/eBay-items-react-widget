@@ -45,6 +45,7 @@
     "cors": "^2.8.5",
     "ebay-items-react-widget": "^1.0.1",
     "ebay-oauth-nodejs-client": "^1.2.2",
+    "jsx": "^0.9.89",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-material-ui-carousel": "2.1.2",
